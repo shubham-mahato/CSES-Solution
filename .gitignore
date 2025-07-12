@@ -1,0 +1,44 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Debug and log files
+*.log
+*.tmp
+
+# Build directories
+/build/
+/bin/
+/debug/
+/dist/
+/output/
+
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code settings (optional)
+.vscode/
+
+# Backup files
+*~
+*.bak
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Clangd and LSP files
+.cache/
+.clangd/
